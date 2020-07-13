@@ -1,5 +1,5 @@
 # REngineerPanel
-Reverse Engineering Panel - All programs in one
+Reverse Engineering Panel - All reverse engineering programs in one
 
 ![Preview 1](https://i.imgur.com/xgzNQXH.png)
 
